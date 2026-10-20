@@ -5,7 +5,7 @@ Here’s a refined version with your LinkedIn included and ready to paste into y
 > Senior Key Account Manager in the pharmaceutical industry, based in Barcelona, Spain. Passionate about commercial sales, marketing, open source, artificial intelligence, and music.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jordi%20Cuenca-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jordicuenca)
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?logo=github&style=for-the-badge)](https://github.com/geoegebasin)
+[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?logo=github&style=for-the-badge)](https://github.com/georgebasin)
 
 ## About Me
 
