@@ -75,16 +75,3 @@ This is the beginning of my journey as a developer, and I’m excited to grow th
 
 “Technology, creativity, and business can work beautifully together.”
 
-To make it even more personal and polished, could you share a few details?
-
-- Your top skills or technologies you want to highlight
-- Your main interests beyond the ones already listed
-- Whether you want the profile to feel more professional, creative, or startup-style
-- Your GitHub username
-- Any future project ideas you’d like to add once you start building
-
-If you want, I can next create:
-- a more corporate version
-- a more creative/AI-focused version
-- a shorter premium-looking profile
-- a version tailored specifically for a pharmaceutical + business audience
