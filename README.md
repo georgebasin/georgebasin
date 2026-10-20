@@ -1,5 +1,3 @@
-Here’s a refined version with your LinkedIn included and ready to paste into your GitHub profile README:
-
 # Hi, I’m Jordi Cuenca 👋
 
 > Senior Key Account Manager in the pharmaceutical industry, based in Barcelona, Spain. Passionate about commercial sales, marketing, open source, artificial intelligence, and music.
